@@ -1,0 +1,18 @@
+# Script pour Panisse : pose une carte préfédinie puis passe en mode interactif
+#
+# En mode interactif, le joueur saisit dans la console les messages à envoyer parmi : 
+#    je-pioche
+#    je-passe
+#    je-pose 4-bleu
+#    je-pose +2-rouge
+# Pour les cartes noires, préciser la couleur demandée :
+#    je-pose Joker-rouge
+#    je-pose +4-vert
+#
+# Ou il saisit les commandes suivantes, qui sortent du mode interactif :
+#    toujours passer (pioche et passe jusqu'à la fin du programme)
+#    sortie          (sort du programme)
+# 
+je-suis Panisse
+je-pose 4-bleu
+mode interactif

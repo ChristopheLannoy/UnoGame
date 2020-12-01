@@ -1,0 +1,5 @@
+# Script pour Cesar : pose une carte prédéfinie puis passe tous ses tours
+# 
+je-suis Cesar
+je-pose 4-bleu
+toujours passer

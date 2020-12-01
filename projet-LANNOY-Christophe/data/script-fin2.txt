@@ -1,0 +1,15 @@
+# Utiliser deck-numbers-plus2.txt, script-fin1.txt et script-fin2.txt
+# Mains des joueurs à la sortie :
+#    Cesar   : 7R  2R  6R  8J  3J  1J +2R  5V  2V  5J  4V  5R  4V  7B  6V  6B (91 points)
+#    Panisse : rien
+#
+je-suis Panisse
+je-pose 4-bleu
+je-passe
+je-pose 4-rouge
+je-pose +2-rouge
+je-pose +2-jaune
+je-pose 7-jaune
+je-pose 7-vert
+je-pose +2-vert
+je-pose 6-vert
